@@ -1,0 +1,68 @@
+[
+  {
+    "category": "balance_sheet",
+    "metric": "equity_investment",
+    "label": "NVIDIA investment in Intel common stock",
+    "value": 5000,
+    "unit": "USD_millions",
+    "statement": "NVIDIA agreed to invest $5.0 billion in Intel common stock.",
+    "periodStart": "2025-06-29",
+    "periodEnd": "2025-09-27",
+    "basis": "quarter",
+    "accountingBasis": "not_applicable",
+    "page": 2,
+    "periodLabel": "FY2025 Q3",
+    "evidence": {
+      "contextPages": [],
+      "location": "Business Highlights",
+      "rowLabel": "NVIDIA investment in Intel common stock",
+      "columnLabel": null,
+      "reportedValue": "5.0",
+      "reportedUnit": "USD_billions"
+    },
+    "companyId": "intc",
+    "documentId": "intc-2025-Q3",
+    "quarter": "2025-Q3",
+    "sourceHash": "a4cfc15de36f67db4719ba3ab303eca45eaad37412307b082aa521d12058f02f",
+    "origin": "model",
+    "verification": "needs_review",
+    "verificationMethod": "automated",
+    "validationIssues": [
+      "Identify the numeric row and its column/header.",
+      "AI review: The Business Highlights on page 2 state that NVIDIA agreed to invest $5.0 billion in Intel common stock; this is narrative evidence, not a table cell. Unresolved checks: Identify the numeric row and its column/header."
+    ]
+  },
+  {
+    "category": "balance_sheet",
+    "metric": "equity_investment",
+    "label": "SoftBank investment in Intel common stock",
+    "value": 2000,
+    "unit": "USD_millions",
+    "statement": "SoftBank Group made a $2.0 billion investment in Intel common stock.",
+    "periodStart": "2025-06-29",
+    "periodEnd": "2025-09-27",
+    "basis": "quarter",
+    "accountingBasis": "not_applicable",
+    "page": 2,
+    "periodLabel": "FY2025 Q3",
+    "evidence": {
+      "contextPages": [],
+      "location": "Business Highlights",
+      "rowLabel": "SoftBank Group investment in Intel common stock",
+      "columnLabel": null,
+      "reportedValue": "2.0",
+      "reportedUnit": "USD_billions"
+    },
+    "companyId": "intc",
+    "documentId": "intc-2025-Q3",
+    "quarter": "2025-Q3",
+    "sourceHash": "a4cfc15de36f67db4719ba3ab303eca45eaad37412307b082aa521d12058f02f",
+    "origin": "model",
+    "verification": "needs_review",
+    "verificationMethod": "automated",
+    "validationIssues": [
+      "Identify the numeric row and its column/header.",
+      "AI review: The Business Highlights on page 2 state that SoftBank Group made a $2.0 billion investment in Intel common stock; this is narrative evidence, not a table cell. Unresolved checks: Identify the numeric row and its column/header."
+    ]
+  }
+]

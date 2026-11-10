@@ -1,0 +1,307 @@
+[
+  {
+    "id": "intc-2025-Q4",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_55d7c77db61d0836bb9bcea650fc712a/intel/db/887/9159/earnings_release/Q4%2725+EarningsRelease+FINAL+v1.pdf",
+    "file": "intc-2025-Q4.pdf",
+    "bytes": 181921,
+    "sha256": "46c2b556dcdb83dd494c3bedd4ee867354000d628bfbb8c5d8bf32a0d83d2bcc",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://www.intc.com/financial-info/financial-results",
+    "note": "Original issuer earnings release. Core financial data from current-quarter first column; cash flow from quarterly supplementary reconciliation, not year-to-date statements. Adjusted free cash flow uses Intel issuer definition."
+  },
+  {
+    "id": "intc-2025-Q3",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_55d7c77db61d0836bb9bcea650fc712a/intel/db/887/9148/earnings_release/Q3%2725+EarningsRelease+FINAL.pdf",
+    "file": "intc-2025-Q3.pdf",
+    "bytes": 149791,
+    "sha256": "a4cfc15de36f67db4719ba3ab303eca45eaad37412307b082aa521d12058f02f",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://www.intc.com/financial-info/financial-results",
+    "note": "Original issuer earnings release. Core financial data from current-quarter first column; cash flow from quarterly supplementary reconciliation, not year-to-date statements. Adjusted free cash flow uses Intel issuer definition."
+  },
+  {
+    "id": "intc-2025-Q2",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_55d7c77db61d0836bb9bcea650fc712a/intel/db/887/9139/earnings_release/Q2%2725_EarningsRelease_FINAL.pdf",
+    "file": "intc-2025-Q2.pdf",
+    "bytes": 157889,
+    "sha256": "6a5fac287a26881dbeda3c2d498864e95f4c672b0e060ae06e72de98b3d6e212",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://www.intc.com/financial-info/financial-results",
+    "note": "Original issuer earnings release. Core financial data from current-quarter first column; cash flow from quarterly supplementary reconciliation, not year-to-date statements. Adjusted free cash flow uses Intel issuer definition."
+  },
+  {
+    "id": "intc-2025-Q1",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_55d7c77db61d0836bb9bcea650fc712a/intel/db/887/9128/earnings_release/Q1%2725_EarningsRelease.pdf",
+    "file": "intc-2025-Q1.pdf",
+    "bytes": 144851,
+    "sha256": "7085a68800485c24dcc673317c92445dc0fe74c9f3de25ce9fba88a245b29cbc",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://www.intc.com/financial-info/financial-results",
+    "note": "Original issuer earnings release. Core financial data from current-quarter first column; cash flow from quarterly supplementary reconciliation, not year-to-date statements. Adjusted free cash flow uses Intel issuer definition."
+  },
+  {
+    "id": "intc-2024-Q4",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_55d7c77db61d0836bb9bcea650fc712a/intel/db/887/9101/earnings_release/Q4%2724_EarningsRelease+%282%29.pdf",
+    "file": "intc-2024-Q4.pdf",
+    "bytes": 150517,
+    "sha256": "aec1385a3dd7dd92f9b36467dc658f32490c8fdb4ce11e27ff3c96a5a14b898b",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://www.intc.com/financial-info/financial-results",
+    "note": "Original issuer earnings release. Core financial data from current-quarter first column; cash flow from quarterly supplementary reconciliation, not year-to-date statements. Adjusted free cash flow uses Intel issuer definition."
+  },
+  {
+    "id": "intc-2024-Q3",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_55d7c77db61d0836bb9bcea650fc712a/intel/db/887/9085/earnings_release/Q3+24_EarningsRelease.pdf",
+    "file": "intc-2024-Q3.pdf",
+    "bytes": 145751,
+    "sha256": "838f85c90a9a9550c13c50b684c30c650cf05380511465df929fe871247968e6",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://www.intc.com/financial-info/financial-results",
+    "note": "Original issuer earnings release. Core financial data from current-quarter first column; cash flow from quarterly supplementary reconciliation, not year-to-date statements. Adjusted free cash flow uses Intel issuer definition."
+  },
+  {
+    "id": "intc-2024-Q2",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_55d7c77db61d0836bb9bcea650fc712a/intel/db/887/9077/earnings_release/FINAL+Q2+24+Earnings+Release.pdf",
+    "file": "intc-2024-Q2.pdf",
+    "bytes": 461505,
+    "sha256": "10f3285ae538e2c061ec867e3ac8442a716c6ef9beed671c9fd81c3bd8163b01",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://www.intc.com/financial-info/financial-results",
+    "note": "Original issuer earnings release. Core financial data from current-quarter first column; cash flow from quarterly supplementary reconciliation, not year-to-date statements. Adjusted free cash flow uses Intel issuer definition."
+  },
+  {
+    "id": "intc-2024-Q1",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_55d7c77db61d0836bb9bcea650fc712a/intel/db/887/9014/earnings_release/Q1+24_EarningsRelease_FINAL.pdf",
+    "file": "intc-2024-Q1.pdf",
+    "bytes": 133510,
+    "sha256": "49074abc2ed2c1dbad9a52ef725fedc6bed212fe32007f51db231d480478dc46",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://www.intc.com/financial-info/financial-results",
+    "note": "Original issuer earnings release. Core financial data from current-quarter first column; cash flow from quarterly supplementary reconciliation, not year-to-date statements. Adjusted free cash flow uses Intel issuer definition."
+  },
+  {
+    "id": "intc-2023-Q4",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_55d7c77db61d0836bb9bcea650fc712a/intel/db/887/8982/earnings_release/Q4+23_EarningsRelease_.pdf",
+    "file": "intc-2023-Q4.pdf",
+    "bytes": 161068,
+    "sha256": "b12640183f7885928383c231801621b9d7ce70adf211d27258cd01471100083e",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://www.intc.com/financial-info/financial-results",
+    "note": "Original issuer earnings release. Core financial data from current-quarter first column; cash flow from quarterly supplementary reconciliation, not year-to-date statements. Adjusted free cash flow uses Intel issuer definition."
+  },
+  {
+    "id": "intc-2023-Q3",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_55d7c77db61d0836bb9bcea650fc712a/intel/db/887/8973/earnings_release/Q3+23+EarningsRelease.pdf",
+    "file": "intc-2023-Q3.pdf",
+    "bytes": 148584,
+    "sha256": "fd5ece9c794c288088e8c0a0bbcaa3f144914562611af1022eb8dcc8f4b690a1",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://www.intc.com/financial-info/financial-results",
+    "note": "Original issuer earnings release. Core financial data from current-quarter first column; cash flow from quarterly supplementary reconciliation, not year-to-date statements. Adjusted free cash flow uses Intel issuer definition."
+  },
+  {
+    "id": "intc-2023-Q2",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_55d7c77db61d0836bb9bcea650fc712a/intel/db/887/8960/earnings_release/Q2+23_EarningsRelease_.pdf",
+    "file": "intc-2023-Q2.pdf",
+    "bytes": 149327,
+    "sha256": "79ec12e571995f6e293f961a40ee139a52d44aa9cee47c9cd77f398111fe1606",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://www.intc.com/financial-info/financial-results",
+    "note": "Original issuer earnings release. Core financial data from current-quarter first column; cash flow from quarterly supplementary reconciliation, not year-to-date statements. Adjusted free cash flow uses Intel issuer definition."
+  },
+  {
+    "id": "intc-2023-Q1",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_55d7c77db61d0836bb9bcea650fc712a/intel/db/887/8943/earnings_release/Q1+23_EarningsRelease+%28004%29.pdf",
+    "file": "intc-2023-Q1.pdf",
+    "bytes": 538948,
+    "sha256": "9184bb8c26735de7e1efcc41014232e79414082a3ab2371418c98900203e4382",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://www.intc.com/financial-info/financial-results",
+    "note": "Original issuer earnings release. Core financial data from current-quarter first column; cash flow from quarterly supplementary reconciliation, not year-to-date statements. Adjusted free cash flow uses Intel issuer definition."
+  },
+  {
+    "id": "nvda-FY23-Q4",
+    "url": "https://s201.q4cdn.com/141608511/files/doc_financials/2023/Q423/Q4FY23-CFO-Commentary.pdf",
+    "file": "nvda-FY23-Q4.pdf",
+    "bytes": 178094,
+    "sha256": "6e4e818a77e06db641f47a25a31209f0130d3af26a4c01e231986d74484bf7cb",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://investor.nvidia.com/financial-info/financial-reports/default.aspx",
+    "publicationEvidenceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2023",
+    "note": "Original issuer CFO commentary; the first columns of its reconciliation tables are quarterly, followed by comparative/YTD columns. Fiscal-year labels are retained; exact dates govern ordering."
+  },
+  {
+    "id": "nvda-FY24-Q1",
+    "url": "https://s201.q4cdn.com/141608511/files/doc_financials/2024/Q1FY24/Q1FY24-CFO-Commentary.pdf",
+    "file": "nvda-FY24-Q1.pdf",
+    "bytes": 134338,
+    "sha256": "e5afd2ef979c8de7eb9b7c9c5029df4457dbce2c609d679c305d2583fe2f3071",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://investor.nvidia.com/financial-info/financial-reports/default.aspx",
+    "publicationEvidenceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2024",
+    "note": "Original issuer CFO commentary; the first columns of its reconciliation tables are quarterly, followed by comparative/YTD columns. Fiscal-year labels are retained; exact dates govern ordering."
+  },
+  {
+    "id": "nvda-FY24-Q2",
+    "url": "https://s201.q4cdn.com/141608511/files/doc_financials/2024/Q2FY24/Q2FY24-CFO-Commentary.pdf",
+    "file": "nvda-FY24-Q2.pdf",
+    "bytes": 79510,
+    "sha256": "317410bd1f5eef3443d0a4fa330af47245630381e3673290ac84e892338823e0",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://investor.nvidia.com/financial-info/financial-reports/default.aspx",
+    "publicationEvidenceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2024",
+    "note": "Original issuer CFO commentary; the first columns of its reconciliation tables are quarterly, followed by comparative/YTD columns. Fiscal-year labels are retained; exact dates govern ordering."
+  },
+  {
+    "id": "nvda-FY24-Q3",
+    "url": "https://s201.q4cdn.com/141608511/files/doc_financials/Q3FY24/Q3FY24-CFO-Commentary.pdf",
+    "file": "nvda-FY24-Q3.pdf",
+    "bytes": 82618,
+    "sha256": "07273632ea8045b049d4b30f5ba9a3b9b0ecbcb0b6efdc74828cbde3bcdfe2b9",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://investor.nvidia.com/financial-info/financial-reports/default.aspx",
+    "publicationEvidenceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2024",
+    "note": "Original issuer CFO commentary; the first columns of its reconciliation tables are quarterly, followed by comparative/YTD columns. Fiscal-year labels are retained; exact dates govern ordering."
+  },
+  {
+    "id": "nvda-FY24-Q4",
+    "url": "https://s201.q4cdn.com/141608511/files/doc_financials/2024/Q4FY24/Q4FY24-CFO-Commentary.pdf",
+    "file": "nvda-FY24-Q4.pdf",
+    "bytes": 82183,
+    "sha256": "94ef705dfcb9f5e0c56253c2f26b42a99bee1ce0f55405113a292d440fa56435",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://investor.nvidia.com/financial-info/financial-reports/default.aspx",
+    "publicationEvidenceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2024",
+    "note": "Original issuer CFO commentary; the first columns of its reconciliation tables are quarterly, followed by comparative/YTD columns. Fiscal-year labels are retained; exact dates govern ordering."
+  },
+  {
+    "id": "nvda-FY25-Q1",
+    "url": "https://s201.q4cdn.com/141608511/files/doc_financials/2025/Q1FY25-CFO-Commentary.pdf",
+    "file": "nvda-FY25-Q1.pdf",
+    "bytes": 77532,
+    "sha256": "62b6d72f5f27806b9eb4ea456b18feef758cfe7dfa39bd20bef19a3c8a9770b9",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://investor.nvidia.com/financial-info/financial-reports/default.aspx",
+    "publicationEvidenceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2025",
+    "note": "Original issuer CFO commentary; the first columns of its reconciliation tables are quarterly, followed by comparative/YTD columns. Fiscal-year labels are retained; exact dates govern ordering."
+  },
+  {
+    "id": "nvda-FY25-Q2",
+    "url": "https://s201.q4cdn.com/141608511/files/doc_financials/2025/Q225/Q2FY25-CFO-Commentary.pdf",
+    "file": "nvda-FY25-Q2.pdf",
+    "bytes": 90537,
+    "sha256": "bbce868766872c7eb63c62e4fda1c013523f407b518fc35f0f4851920f70e6e2",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://investor.nvidia.com/financial-info/financial-reports/default.aspx",
+    "publicationEvidenceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2025",
+    "note": "Original issuer CFO commentary; the first columns of its reconciliation tables are quarterly, followed by comparative/YTD columns. Fiscal-year labels are retained; exact dates govern ordering."
+  },
+  {
+    "id": "nvda-FY25-Q3",
+    "url": "https://s201.q4cdn.com/141608511/files/doc_financials/2025/Q325/Q3FY25-CFO-Commentary.pdf",
+    "file": "nvda-FY25-Q3.pdf",
+    "bytes": 89455,
+    "sha256": "54041799b8c3446b79777f6df922b7650d9d28607a3632367eb32d1b1c898ad0",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://investor.nvidia.com/financial-info/financial-reports/default.aspx",
+    "publicationEvidenceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2025",
+    "note": "Original issuer CFO commentary; the first columns of its reconciliation tables are quarterly, followed by comparative/YTD columns. Fiscal-year labels are retained; exact dates govern ordering."
+  },
+  {
+    "id": "nvda-FY25-Q4",
+    "url": "https://s201.q4cdn.com/141608511/files/doc_financials/2025/Q425/Q4FY25-CFO-Commentary.pdf",
+    "file": "nvda-FY25-Q4.pdf",
+    "bytes": 82336,
+    "sha256": "842a50961f0466d50584f8017200ab72c5a86c7438f0560cefb0506442149ce7",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://investor.nvidia.com/financial-info/financial-reports/default.aspx",
+    "publicationEvidenceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2025",
+    "note": "Original issuer CFO commentary; the first columns of its reconciliation tables are quarterly, followed by comparative/YTD columns. Fiscal-year labels are retained; exact dates govern ordering."
+  },
+  {
+    "id": "nvda-FY26-Q1",
+    "url": "https://s201.q4cdn.com/141608511/files/doc_financials/2026/Q126/Q1FY26-CFO-Commentary.pdf",
+    "file": "nvda-FY26-Q1.pdf",
+    "bytes": 82323,
+    "sha256": "7adc4370281c7185649f3f2d9ef7eb37c34de6de4a8e481bfb45d160410f6d8e",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://investor.nvidia.com/financial-info/financial-reports/default.aspx",
+    "publicationEvidenceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2026",
+    "note": "Original issuer CFO commentary; the first columns of its reconciliation tables are quarterly, followed by comparative/YTD columns. Fiscal-year labels are retained; exact dates govern ordering."
+  },
+  {
+    "id": "nvda-FY26-Q2",
+    "url": "https://s201.q4cdn.com/141608511/files/doc_financials/2026/Q226/Q2FY26-CFO-Commentary.pdf",
+    "file": "nvda-FY26-Q2.pdf",
+    "bytes": 82638,
+    "sha256": "2de27db9468a80c05f5d33d7fba005e057d38e4923c953fe17490e27bc842aa2",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://investor.nvidia.com/financial-info/financial-reports/default.aspx",
+    "publicationEvidenceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026",
+    "note": "Original issuer CFO commentary; the first columns of its reconciliation tables are quarterly, followed by comparative/YTD columns. Fiscal-year labels are retained; exact dates govern ordering."
+  },
+  {
+    "id": "nvda-FY26-Q3",
+    "url": "https://s201.q4cdn.com/141608511/files/doc_financials/2026/Q326/Q3FY26-CFO-Commentary.pdf",
+    "file": "nvda-FY26-Q3.pdf",
+    "bytes": 79116,
+    "sha256": "a23a1e583d4d91d442e3bda299c660661439365539d399f2479cbab232b5f195",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://investor.nvidia.com/financial-info/financial-reports/default.aspx",
+    "publicationEvidenceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2026",
+    "note": "Original issuer CFO commentary; the first columns of its reconciliation tables are quarterly, followed by comparative/YTD columns. Fiscal-year labels are retained; exact dates govern ordering."
+  },
+  {
+    "id": "intc-2026-Q2",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_55d7c77db61d0836bb9bcea650fc712a/intel/db/887/9266/earnings_release/Q2+2026+Earnings+Release.pdf",
+    "file": "intc-2026-Q2.pdf",
+    "bytes": 144391,
+    "sha256": "ba0f95f6d91f6b858c0c586934486d4bb90786a25623934c729335550bd97cc4",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://www.intc.com/financial-info/financial-results",
+    "note": "Original issuer PDF; quarterly figures from the first/current-quarter column. Exact period dates preserved. Free cash flow uses the issuer definition."
+  },
+  {
+    "id": "intc-2026-Q1",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_55d7c77db61d0836bb9bcea650fc712a/intel/db/887/9254/earnings_release/Q1%2726+Earnings+Release.pdf",
+    "file": "intc-2026-Q1.pdf",
+    "bytes": 142260,
+    "sha256": "b6c421c2c5d1957b205ed01a91d496f083aee9964148b027d0aead72df332abe",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://www.intc.com/financial-info/financial-results",
+    "note": "Original issuer PDF; quarterly figures from the first/current-quarter column. Exact period dates preserved. Free cash flow uses the issuer definition."
+  },
+  {
+    "id": "nvda-FY26-Q4",
+    "url": "https://s201.q4cdn.com/141608511/files/doc_financials/2026/Q426/Q4FY26-CFO-Commentary.pdf",
+    "file": "nvda-FY26-Q4.pdf",
+    "bytes": 85132,
+    "sha256": "5dc14842f4375ea61ab5264d8e66b5e4c55ebb0c2e0aae5ba907ef77355a3adb",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://investor.nvidia.com/financial-info/financial-reports/default.aspx",
+    "publicationEvidenceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026",
+    "note": "Original issuer PDF; quarterly figures from the first/current-quarter column. Exact period dates preserved. Free cash flow uses the issuer definition."
+  },
+  {
+    "id": "nvda-FY27-Q1",
+    "url": "https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q127/Q1FY27-CFO-Commentary.pdf",
+    "file": "nvda-FY27-Q1.pdf",
+    "bytes": 75796,
+    "sha256": "3289ba8ba2049a9203bec461d44de0b0d7ea2b08e0a0b1a1edd31c9b6011e87e",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://investor.nvidia.com/financial-info/financial-reports/default.aspx",
+    "publicationEvidenceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027",
+    "note": "Original issuer PDF; quarterly figures from the first/current-quarter column. Exact period dates preserved. Free cash flow uses the issuer definition."
+  },
+  {
+    "id": "nvda-FY27-Q2",
+    "url": "https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q227/Q2FY27-CFO-Commentary.pdf",
+    "file": "nvda-FY27-Q2.pdf",
+    "bytes": 94539,
+    "sha256": "fd5a8f16308e49fedb17a2519495fe646e93cc4c5efbdbff547917f9a40682f5",
+    "retrievedAt": "2026-10-18",
+    "issuerArchiveUrl": "https://investor.nvidia.com/financial-info/financial-reports/default.aspx",
+    "publicationEvidenceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027",
+    "note": "Original issuer PDF; quarterly figures from the first/current-quarter column. Exact period dates preserved. Free cash flow uses the issuer definition."
+  }
+]

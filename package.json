@@ -1,0 +1,39 @@
+{
+  "name": "fundamental-change-monitor",
+  "version": "0.3.0",
+  "private": true,
+  "engines": {
+    "node": ">=24.19.0 <25"
+  },
+  "scripts": {
+    "build": "node scripts/build-local.mjs",
+    "start": "node .local-build/server.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "node tests/run.mjs",
+    "check:compiled": "node tests/check-compiled.mjs",
+    "format": "prettier --write app lib local tests scripts *.md"
+  },
+  "dependencies": {
+    "lucide-react": "^1.31.0",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "recharts": "^3.8.0",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.2.1",
+    "@types/node": "22.19.19",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "@vitejs/plugin-react": "6.0.2",
+    "esbuild": "^0.28.2",
+    "prettier": "^3.9.10",
+    "tailwindcss": "4.2.1",
+    "typescript": "5.9.3",
+    "vite": "8.0.13",
+    "ajv": "8.20.0",
+    "ajv-formats": "2.1.1"
+  },
+  "type": "module",
+  "description": "Evidence-backed corporate fundamental monitoring with PDF provenance, analyst corrections and masked historical forecasts."
+}

@@ -1,0 +1,14 @@
+CREATE TABLE companies (id TEXT PRIMARY KEY, payload TEXT NOT NULL);
+CREATE TABLE documents (id TEXT PRIMARY KEY, payload TEXT NOT NULL);
+CREATE TABLE runs (id TEXT PRIMARY KEY, at TEXT NOT NULL, payload TEXT NOT NULL);
+CREATE TABLE reports (id TEXT PRIMARY KEY, document_id TEXT NOT NULL, revision INTEGER NOT NULL, payload TEXT NOT NULL, UNIQUE(document_id,revision));
+CREATE TABLE report_heads (document_id TEXT PRIMARY KEY, revision INTEGER NOT NULL);
+CREATE TABLE publications (id TEXT PRIMARY KEY, company_id TEXT NOT NULL, at TEXT NOT NULL, payload TEXT NOT NULL);
+CREATE INDEX publications_company ON publications(company_id,at);
+CREATE TABLE forecasts (id TEXT PRIMARY KEY, payload TEXT NOT NULL);
+CREATE TABLE company_reviews (id TEXT PRIMARY KEY, company_id TEXT NOT NULL, at TEXT NOT NULL, payload TEXT NOT NULL);
+CREATE INDEX reviews_company ON company_reviews(company_id,at);
+CREATE TABLE state_revision (id INTEGER PRIMARY KEY CHECK(id=1), token TEXT NOT NULL);
+INSERT INTO state_revision VALUES(1,'initial');
+CREATE TABLE audit (id TEXT PRIMARY KEY, at TEXT NOT NULL, payload TEXT NOT NULL);
+CREATE TABLE app_meta (key TEXT PRIMARY KEY, value TEXT NOT NULL);

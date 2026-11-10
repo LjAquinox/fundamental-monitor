@@ -1,0 +1,5 @@
+# Preserve source bytes used by prebuilt integrity checks.
+* -text
+
+# Keep Windows launchers CRLF in working trees and normalized in Git.
+*.cmd text eol=crlf

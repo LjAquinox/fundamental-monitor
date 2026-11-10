@@ -1,0 +1,8 @@
+# Local settings template. Never include real credentials in a release archive.
+# Browsing, manual corrections, local publication refresh and exports work without a key.
+OPENAI_API_KEY=
+LLM_PROVIDER=openai
+LLM_MODEL=gpt-6-luna
+LLM_REVIEW_MODEL=
+LLM_REVIEW_REASONING_EFFORT=high
+AI_DAILY_CALL_LIMIT=200

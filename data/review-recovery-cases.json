@@ -1,0 +1,17 @@
+{
+  "5a176a5c-b669-472f-90f5-d0690d7e5935": {
+    "jobId": "5a176a5c-b669-472f-90f5-d0690d7e5935",
+    "sourceRunId": "f752a3a6-a650-462e-a981-76ff8e654424",
+    "resultHash": "3fc401e962c1eed0366b6b5a2a20f01b9635dbb1ed932610fafce0aecf809847",
+    "rawOutputHash": "ccc9364dbbb8c42fe54025b98ff447223c724b1130bf568144efb041e6cdd9b7",
+    "correctionIndex": 10,
+    "fromDocumentId": "intc-2024-Q1",
+    "toDocumentId": "intc-2023-Q4",
+    "path": "events",
+    "index": 0,
+    "transactionKey": "Intel-Silicon Mobility acquisition",
+    "sourceHash": "b12640183f7885928383c231801621b9d7ce70adf211d27258cd01471100083e",
+    "sourcePage": 3,
+    "sourceText": "agreement to acquire Silicon Mobility"
+  }
+}
