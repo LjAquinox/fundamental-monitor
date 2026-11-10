@@ -382,7 +382,7 @@ try {
   );
   const localArgs = [
     "--import",
-    denyNetwork,
+    pathToFileURL(denyNetwork).href,
     resolve(directory, "scripts/run-workflow.mjs"),
     "-ApplySavedReview",
     localJob.id,
@@ -452,7 +452,7 @@ try {
     process.execPath,
     [
       "--import",
-      denyNetwork,
+      pathToFileURL(denyNetwork).href,
       resolve(directory, "scripts/run-workflow.mjs"),
       "-ApplySavedReview",
       crypto.randomUUID(),
